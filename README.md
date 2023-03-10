@@ -1,1 +1,1 @@
-vagrant installation
+vagrant
